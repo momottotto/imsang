@@ -11,13 +11,13 @@ import {
 
 // Firebase 설정
 const firebaseConfig = {
-  apiKey: "AIzaSyClroxydGdxlAHul08SeYrNlVgqXY9drKE",
-  authDomain: "test-e69c4.firebaseapp.com",
-  projectId: "test-e69c4",
-  storageBucket: "test-e69c4.appspot.com",
-  messagingSenderId: "102070631826",
-  appId: "1:102070631826:web:0007dd69204265baa2154b",
-  measurementId: "G-W5H5T8DY6H"
+  apiKey: "AIzaSyBONXs9mO22DPVMo5-X4KL9VsREAygSNfI",
+  authDomain: "imsang-f3e33.firebaseapp.com",
+  projectId: "imsang-f3e33",
+  storageBucket: "imsang-f3e33.firebasestorage.app",
+  messagingSenderId: "267295799163",
+  appId: "1:267295799163:web:a859aca0df390a8df46fde",
+  measurementId: "G-HLRVD0TFQK"
 };
 
 const app = initializeApp(firebaseConfig);
